@@ -1,6 +1,6 @@
 [
   {
     "name": "hello-world",
-    "imageUri": "418272784839.dkr.ecr.us-east-1.amazonaws.com/cicd/image-repo"
+    "imageUri": "418272784839.dkr.ecr.us-east-1.amazonaws.com/cicd/latest"
   }
 ]
